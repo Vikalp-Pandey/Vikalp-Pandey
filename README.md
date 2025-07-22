@@ -1,6 +1,6 @@
 
 ## 🙏🙏, I am Vikalp Pandey
-<h3 align="center">🤖Django-React Full Stack Developer | building dynamic and user-friendly web applications 🚀</h3>
+<h3 align="center">🐍⚛️⚙️ Django-React Full Stack Developer | Building dynamic and user-friendly web applications 🧑‍💻🌐✨ </h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRylin5_3sX_D5guPH7oXcqOQXp3q6wO1-I9w&s)"/>
 </p>
